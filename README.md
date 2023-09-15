@@ -7,8 +7,8 @@ A Workout Generator App
 <table>
   <tr>
     <td>Welcome Screen</td>
-    <td>Add Weight Screen</td>
-     <td>Add Height Screen</td>
+    <td>Add Height Screen</td>
+     <td>Add Weight Screen</td>
      <td>Add Age Screen</td>
      <td>Select Focus Screen</td>
      <td>Select Location Modal</td>
