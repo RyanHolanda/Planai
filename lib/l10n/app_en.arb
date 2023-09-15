@@ -1,0 +1,72 @@
+{
+    "hour": "{hour} {hour, plural, =1{hour} other {hours}}",
+    "@hour": {
+        "placeholders": {
+            "hour": {}
+        }
+    },
+    "minute": "{minute} {minute, plural, =1{minute} other {minutes}}",
+    "@minute": {
+        "placeholders": {
+            "minute": {}
+        }
+    },
+    "second": "{second} {second, plural, =1{second} other {seconds}}",
+    "@second": {
+        "placeholders": {
+            "second": {}
+        }
+    },
+    "day": "{day} {day, plural, =1{day} other {days}}",
+    "@day": {
+        "placeholders": {
+            "day": {}
+        }
+    },
+    "createdWorkoutOverviewScreenWorkout": "{focus} Workout",
+    "@createdWorkoutOverviewScreenWorkout": {
+        "placeholders": {
+            "focus": {}
+        }
+    },
+    "customErrorStateOhNo": "Oh no!",
+    "customErrorStateTryAgain": "Try Again",
+    "createWorkoutModalErrorDescription": "An error ocurred while creating your Workout Plan. Please check your Internet Connection and try again",
+    "createdWorkoutOverviewScreenSets": "Sets",
+    "createdWorkoutOverviewScreenReps": "Reps",
+    "createdWorkoutOverviewScreenRest": "Rest:",
+    "unknown": "Unknown",
+    "userFocusEnumLowerBody": "Lower Body",
+    "userFocusEnumUpperBody": "Upper Body",
+    "userFocusEnumBoth": "All Muscles",
+    "userFocusEnumHealthiness": "Healthiness",
+    "userFocusEnumLoseWeight": "Lose Weight",
+    "userFocusEnumLowerBodyDescription": "Strengthen and tone your legs, glutes, and lower back.",
+    "userFocusEnumUpperBodyDescription": "Build upper body strength and sculpt your arms, chest, and shoulders.",
+    "userFocusEnumBothDescription": "Achieve balance and strength from head to toe.",
+    "userFocusEnumHealthinessDescription": "Enhance overall fitness and well-being.",
+    "userFocusEnumLoseWeightdescription": "Shed excess weight and boost metabolism for a healthier you.",
+    "createWorkoutScreenCreateWorkoutPlan": "Create Workout Plan",
+    "createWorkoutScreenWhatsYourHeight": "What's\nYour Height?",
+    "createWorkoutScreenWhatsYourFocus": "What's\nYour Focus?",
+    "createWorkoutScreenWhatsYourGoal": "What's\nYour Goal?",
+    "createWorkoutScreenWhatsYourWeight": "What's\nYour Weight?",
+    "createWorkoutScreenWhatsYourAge": "What's\nYour Age?",
+    "createWorkoutScreenYearsOld": "Yo",
+    "createWorkoutModalWorkoutPlanWithGym": "Workout Plan With Gym",
+    "createWorkoutModalWorkoutPlanWithoutGym": "Workout Plan Without Gym",
+    "createWorkoutModalCreatingYourWorkoutPlan": "Creating your Workout Plan...",
+    "createWorkoutModalPleaseDoNotCloseTheApp": "Please do not close the app",
+    "createWorkoutModalCreateMyWorkoutPlan": "Create My Workout Plan",
+    "createWorkoutScreenHeightStepErrorText": "Please enter your height before continuing",
+    "createWorkoutScreenAgeStepErrorText": "Please enter your Age before continuing",
+    "createWorkoutScreenWeightStepErrorText": "Please enter your Weight before continuing",
+    "workoutLocationModalTitle": "Would you be interested\nin going to the Gym to focus in\n",
+    "workoutLocationModalYes": "Yes, I Would",
+    "workoutLocationModalNo": "No! I Prefer without the Gym",
+    "welcomeScreenItsOnTheWay": "It's on the way",
+    "welcomeScreenLoginToMyAccount": "Log in to My Account",
+    "welcomeScreenJustStart": "Just Start.",
+    "welcomeScreenGetStarted": "Create a Workout Plan",
+    "welcomeScreenYourTransformation": "Your trasformation"
+}

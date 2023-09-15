@@ -1,0 +1,72 @@
+{
+    "hour": "{hour} {hour, plural, =1{hora} other {horas}}",
+    "@hour": {
+        "placeholders": {
+            "hour": {}
+        }
+    },
+    "minute": "{minute} {minute, plural, =1{minuto} other {minutos}}",
+    "@minute": {
+        "placeholders": {
+            "minute": {}
+        }
+    },
+    "second": "{second} {second, plural, =1{segundo} other {segundos}}",
+    "@second": {
+        "placeholders": {
+            "second": {}
+        }
+    },
+    "day": "{day} {day, plural, =1{dia} other {dias}}",
+    "@day": {
+        "placeholders": {
+            "day": {}
+        }
+    },
+    "createdWorkoutOverviewScreenWorkout": "Plano de treino para {focus}",
+    "@createdWorkoutOverviewScreenWorkout": {
+        "placeholders": {
+            "focus": {}
+        }
+    },
+    "customErrorStateOhNo": "Oh não!",
+    "customErrorStateTryAgain": "Tentar Novamente",
+    "createWorkoutModalErrorDescription": "Ocorreu um erro ao criar seu Plano de Treino. Por favor, verifique sua conexão com a Internet e tente novamente.",
+    "createdWorkoutOverviewScreenSets": "Séries",
+    "createdWorkoutOverviewScreenReps": "Repetições",
+    "createdWorkoutOverviewScreenRest": "Descanso:",
+    "unknown": "Desconhecido",
+    "userFocusEnumLowerBody": "Parte Inferior do Corpo",
+    "userFocusEnumUpperBody": "Parte Superior do Corpo",
+    "userFocusEnumBoth": "Todos os Músculos",
+    "userFocusEnumHealthiness": "Saúde",
+    "userFocusEnumLoseWeight": "Perder Peso",
+    "userFocusEnumLowerBodyDescription": "Fortaleça e tonifique suas pernas, glúteos e parte inferior das costas.",
+    "userFocusEnumUpperBodyDescription": "Desenvolva a força da parte superior do corpo e esculpa seus braços, peito e ombros.",
+    "userFocusEnumBothDescription": "Alcance equilíbrio e força da cabeça aos pés.",
+    "userFocusEnumHealthinessDescription": "Melhore a forma física e o bem-estar geral.",
+    "userFocusEnumLoseWeightdescription": "Elimine o excesso de peso e aumente o metabolismo para uma vida mais saudável.",
+    "createWorkoutScreenCreateWorkoutPlan": "Criar Plano de Treino",
+    "createWorkoutScreenWhatsYourHeight": "Qual é\nSua Altura?",
+    "createWorkoutScreenWhatsYourFocus": "Qual é\nSeu Foco?",
+    "createWorkoutScreenWhatsYourGoal": "Qual é\nSeu Objetivo?",
+    "createWorkoutScreenWhatsYourWeight": "Qual é\nSeu Peso?",
+    "createWorkoutScreenWhatsYourAge": "Qual é\nSua Idade?",
+    "createWorkoutScreenYearsOld": "Anos",
+    "createWorkoutModalWorkoutPlanWithGym": "Plano de Treino com Academia",
+    "createWorkoutModalWorkoutPlanWithoutGym": "Plano de Treino sem Academia",
+    "createWorkoutModalCreatingYourWorkoutPlan": "Criando seu Plano de Treino...",
+    "createWorkoutModalPleaseDoNotCloseTheApp": "Por favor, não feche o aplicativo",
+    "createWorkoutModalCreateMyWorkoutPlan": "Criar Meu Plano de Treino",
+    "createWorkoutScreenHeightStepErrorText": "Por favor, informe sua altura antes de continuar",
+    "createWorkoutScreenAgeStepErrorText": "Por favor, informe sua idade antes de continuar",
+    "createWorkoutScreenWeightStepErrorText": "Por favor, informe seu peso antes de continuar",
+    "workoutLocationModalTitle": "Você gostaria de ir à Academia para focar em",
+    "workoutLocationModalYes": "Sim, eu gostaria",
+    "workoutLocationModalNo": "Não, prefiro sem a Academia",
+    "welcomeScreenItsOnTheWay": "Está a caminho",
+    "welcomeScreenLoginToMyAccount": "Entrar na Minha Conta",
+    "welcomeScreenJustStart": "Apenas Comece.",
+    "welcomeScreenGetStarted": "Crie um Plano de Treino",
+    "welcomeScreenYourTransformation": "Sua transformação"
+}
