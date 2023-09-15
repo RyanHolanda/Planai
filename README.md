@@ -12,6 +12,7 @@ A Workout Generator App
      <td>Add Age Screen</td>
      <td>Select Focus Screen</td>
      <td>Select Location Modal</td>
+     <td>Generating Workout Modal</td>
      <td>Workout Generated</td>
   
   </tr>
