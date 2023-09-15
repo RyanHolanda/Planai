@@ -11,9 +11,11 @@ A Workout Generator App
      <td>Add Height Screen</td>
      <td>Add Age Screen</td>
      <td>Select Focus Screen</td>
+     <td>Select Location Modal</td>
      <td>Workout Generated</td>
+  
   </tr>
-  <tr>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/dc6bc361-988c-4c87-bb87-8a2c97eb45b3" width="80%"></td>
     <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/d8c74831-099f-44d1-be56-4ac45bff7400" width="80%"></td>
     <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/76209c45-dd29-4c73-b78d-71cab6d5ba1e" width="80%"></td>
     <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/fd93fb0e-864f-455e-951a-1514029e6f7d" width="80%"></td>
