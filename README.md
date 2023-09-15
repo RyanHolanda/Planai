@@ -1,16 +1,27 @@
-# planai
+# Planai
 
-A new Flutter project.
+A Workout Generator App
 
-## Getting Started
+## App Images
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td>Welcome Screen</td>
+    <td>Add Weight Screen</td>
+     <td>Add Height Screen</td>
+     <td>Add Age Screen</td>
+     <td>Select Focus Screen</td>
+     <td>Workout Generated</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/d8c74831-099f-44d1-be56-4ac45bff7400" width="80%"></td>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/76209c45-dd29-4c73-b78d-71cab6d5ba1e" width="80%"></td>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/fd93fb0e-864f-455e-951a-1514029e6f7d" width="80%"></td>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/84afb13f-e85b-4409-a1ad-ffcabcf0d451" width="80%"></td>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/e541cb49-53dd-4a0e-a7e0-63b0fc880602" width="80%"></td>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/3d4cc117-e074-4598-b856-39a0e4ba4c3a" width="80%"></td>
+    <td><img src="https://github.com/RyanHolanda/Planai/assets/86686024/b45f4b95-f329-4fb7-9221-032515133f02" width="80%"></td>
+    
+  </tr>
+ </table>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
